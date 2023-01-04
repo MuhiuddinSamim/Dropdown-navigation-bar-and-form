@@ -1,0 +1,67 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+
+}
+
+body{
+    background: rgba(243, 138, 138, 0.478);
+}
+
+
+header{
+    height: 20%;
+    margin: 20px;
+    padding: 20px;
+    background: rgb(121, 232, 10);
+}
+nav{
+    text-align: center;
+}
+nav a {
+    text-decoration: none;
+    font-size: 600;
+    padding: 10px 20px;
+}
+main{
+
+    margin: 20px;
+    padding: 1ppx 20px;
+    background: rgb(120, 110, 230);
+    text-align: center;
+}
+
+}
+h1{
+    padding-top: 5px 15px 30px 15px;
+    padding-bottom: 20px;
+} 
+table{ 
+    background: rgb(105, 193, 248);
+    width: 100%;
+    padding: 20px;
+    justify-content: center;
+}
+
+th,td{
+     padding: 20px; 
+     text-align:center ;
+     border: 1px dotted black;
+
+}
+td{
+    background-color: rgb(115, 115, 248);
+
+}
+th{
+    background-color: gray;
+}
+footer{
+    background-color: rgba(235, 109, 109, 0.855);
+    padding: 20px;
+    text-align: center;
+    margin: 20px;
+    font-family: monospace;
+    font: weight 500px; ;
+}
